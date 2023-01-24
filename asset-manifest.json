@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/AnwarAan/mc-robot/static/css/main.061dd450.css",
-    "main.js": "/AnwarAan/mc-robot/static/js/main.6b88f3ed.js",
+    "main.css": "/AnwarAan/mc-robot/static/css/main.ba60c956.css",
+    "main.js": "/AnwarAan/mc-robot/static/js/main.a81ba03b.js",
     "static/js/787.8fbad45b.chunk.js": "/AnwarAan/mc-robot/static/js/787.8fbad45b.chunk.js",
     "service-worker.js": "/AnwarAan/mc-robot/service-worker.js",
     "static/media/SEGA.woff": "/AnwarAan/mc-robot/static/media/SEGA.8a619f32417a0fe72728.woff",
     "index.html": "/AnwarAan/mc-robot/index.html",
-    "main.061dd450.css.map": "/AnwarAan/mc-robot/static/css/main.061dd450.css.map",
-    "main.6b88f3ed.js.map": "/AnwarAan/mc-robot/static/js/main.6b88f3ed.js.map",
+    "main.ba60c956.css.map": "/AnwarAan/mc-robot/static/css/main.ba60c956.css.map",
+    "main.a81ba03b.js.map": "/AnwarAan/mc-robot/static/js/main.a81ba03b.js.map",
     "787.8fbad45b.chunk.js.map": "/AnwarAan/mc-robot/static/js/787.8fbad45b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.061dd450.css",
-    "static/js/main.6b88f3ed.js"
+    "static/css/main.ba60c956.css",
+    "static/js/main.a81ba03b.js"
   ]
 }
