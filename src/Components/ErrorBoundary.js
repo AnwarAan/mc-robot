@@ -5,7 +5,7 @@ const ErrorBoundary = (props) => {
 
   useEffect(() => {
     setHasError(false);
-  });
+  }, []);
 
   if (hasError === true) {
     return (
