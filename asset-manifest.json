@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/mc-robot/static/css/main.e9500037.css",
-    "main.js": "/mc-robot/static/js/main.645a0478.js",
-    "static/js/787.8fbad45b.chunk.js": "/mc-robot/static/js/787.8fbad45b.chunk.js",
-    "service-worker.js": "/mc-robot/service-worker.js",
-    "static/media/SEGA.woff": "/mc-robot/static/media/SEGA.8a619f32417a0fe72728.woff",
-    "index.html": "/mc-robot/index.html",
-    "main.e9500037.css.map": "/mc-robot/static/css/main.e9500037.css.map",
-    "main.645a0478.js.map": "/mc-robot/static/js/main.645a0478.js.map",
-    "787.8fbad45b.chunk.js.map": "/mc-robot/static/js/787.8fbad45b.chunk.js.map"
+    "main.css": "/AnwarAan/mc-robot/static/css/main.ba60c956.css",
+    "main.js": "/AnwarAan/mc-robot/static/js/main.a81ba03b.js",
+    "static/js/787.8fbad45b.chunk.js": "/AnwarAan/mc-robot/static/js/787.8fbad45b.chunk.js",
+    "service-worker.js": "/AnwarAan/mc-robot/service-worker.js",
+    "static/media/SEGA.woff": "/AnwarAan/mc-robot/static/media/SEGA.8a619f32417a0fe72728.woff",
+    "index.html": "/AnwarAan/mc-robot/index.html",
+    "main.ba60c956.css.map": "/AnwarAan/mc-robot/static/css/main.ba60c956.css.map",
+    "main.a81ba03b.js.map": "/AnwarAan/mc-robot/static/js/main.a81ba03b.js.map",
+    "787.8fbad45b.chunk.js.map": "/AnwarAan/mc-robot/static/js/787.8fbad45b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9500037.css",
-    "static/js/main.645a0478.js"
+    "static/css/main.ba60c956.css",
+    "static/js/main.a81ba03b.js"
   ]
 }
