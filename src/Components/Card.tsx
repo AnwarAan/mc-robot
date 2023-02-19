@@ -1,4 +1,6 @@
-const Card = ({ name, email }) => {
+import { IRobots } from "../Containers/App";
+
+const Card: React.FunctionComponent<IRobots> = ({ name, email }) => {
   return (
     <div className="tc grow bg-light-green br3 pa3 ma2 bw2 dib shadow-5 ">
       <img src={`https://robohash.org/${name}?size=200x200`} alt="rbt-img"></img>

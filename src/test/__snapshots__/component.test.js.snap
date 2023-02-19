@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test component Card 1`] = `ShallowWrapper {}`;
+
+exports[`test component Card List 1`] = `ShallowWrapper {}`;
+
+exports[`test component Error Boundary 1`] = `ShallowWrapper {}`;
+
+exports[`test component Header 1`] = `ShallowWrapper {}`;
+
+exports[`test component Loading 1`] = `ShallowWrapper {}`;
+
+exports[`test component Scroll 1`] = `ShallowWrapper {}`;
+
+exports[`test component Search Box 1`] = `ShallowWrapper {}`;

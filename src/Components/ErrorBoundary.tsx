@@ -1,6 +1,8 @@
+import * as React from "react";
 import { useEffect, useState } from "react";
+import { IProps } from "../Containers/App";
 
-const ErrorBoundary = (props) => {
+const ErrorBoundary = (props: IProps) => {
   const [hasError, setHasError] = useState(false);
 
   useEffect(() => {
